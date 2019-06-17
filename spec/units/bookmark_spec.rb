@@ -1,11 +1,13 @@
-describe Bookmark do
-  subject(:bookmark) { Bookmark.new }
+require 'bookmark'
+
+describe Bookmark do  
 
   describe ".all" do
-    xit "returns a list of bookmarks" do
-      list_of_bookmarks = ["BBC", "Google", "Makers"]
-      bookmark.
-      expect(bookmark.all).to eq()
+    it "returns a list of bookmarks" do 
+      bookmarks = Bookmark.all      
+      expect(bookmarks).to include("http://bbc.co.uk")
+      expect(bookmarks).to include("http://makers.tech")
+      expect(bookmarks).to include("http://google.co.uk")
     end
   end
 end
