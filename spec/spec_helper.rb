@@ -18,7 +18,7 @@ require 'simplecov'
 require 'simplecov-console'
 
 
-Capybara.app=Bookmark
+Capybara.app=BookmarkManager
 
 
 

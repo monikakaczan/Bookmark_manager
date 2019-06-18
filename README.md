@@ -3,10 +3,10 @@
 
 ### How to run:
 ```
-bundle install 
+bundle install
 ```
 
-### How to set up a database: 
+### How to set up a database:
 ```
 connect to psql
 run a command CREATE DATABASE bookmark_manager;
@@ -18,13 +18,19 @@ connect to the database using a psql command \c bookmark_manager_test;
 ```
 
 
-### User Stories: 
+### User Stories:
 ```
-As a user, 
-so I can view my bookmarks 
+As a user,
+so I can view my bookmarks
 I want to be able to see my bookmarks
 
 |     Noun      |      verb     |
 | ------------- | ------------- |
 | user          | view          |
 | bookmarks     |               |
+
+
+Add new bookmarks
+As a user,
+so I can add new bookmarks
+I want to be able to add new bookmarks
