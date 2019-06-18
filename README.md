@@ -1,14 +1,20 @@
 # Bookmark_manager
 
 
-how to run:
+### How to run:
 ```
 bundle install 
 ```
 
+### How to set up a database: 
+```
+connect to psql
+run a command CREATE DATABASE bookmark_manager;
+connect to the database using a psql command \c bookmark_manager;
+run 01_create_bookmarks_table.sql
+```
 
-
-user stories: 
+### User Stories: 
 ```
 As a user, 
 so I can view my bookmarks 
