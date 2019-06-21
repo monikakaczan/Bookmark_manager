@@ -1,7 +1,8 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/benscott/Projects/week_4/MB-bookmark/Bookmark_manager/spec/features/add_new_bookmark_spec.rb": [
+      "/Users/student/Desktop/Bookmark_manager/spec/features/add_new_bookmark_spec.rb": [
+        1,
         1,
         1,
         1,
@@ -12,7 +13,7 @@
         null,
         null
       ],
-      "/Users/benscott/Projects/week_4/MB-bookmark/Bookmark_manager/spec/features/view_bookmarks_spec.rb": [
+      "/Users/student/Desktop/Bookmark_manager/spec/features/view_bookmarks_spec.rb": [
         1,
         1,
         1,
@@ -26,7 +27,7 @@
         null,
         null
       ],
-      "/Users/benscott/Projects/week_4/MB-bookmark/Bookmark_manager/spec/features/view_homepage_spec.rb": [
+      "/Users/student/Desktop/Bookmark_manager/spec/features/view_homepage_spec.rb": [
         1,
         1,
         1,
@@ -34,37 +35,65 @@
         null,
         null
       ],
-      "/Users/benscott/Projects/week_4/MB-bookmark/Bookmark_manager/spec/units/bookmark_spec.rb": [
+      "/Users/student/Desktop/Bookmark_manager/spec/units/bookmark_spec.rb": [
+        1,
         1,
         null,
-        1,
-        null,
-        1,
-        1,
         1,
         null,
         1,
         1,
         1,
         null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
         null,
         1,
         1,
         1,
         1,
         null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
         null,
         null,
         1,
         1,
         1,
+        1,
+        1,
+        null,
+        1,
         null,
         1,
         null,
         null,
+        null
+      ],
+      "/Users/student/Desktop/Bookmark_manager/spec/database_helpers.rb": [
+        1,
+        null,
+        1,
+        2,
+        2,
         null
       ]
     },
-    "timestamp": 1560871665
+    "timestamp": 1561123344
   }
 }
