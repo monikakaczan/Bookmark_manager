@@ -40,7 +40,7 @@ end
     else
       connection= PG.connect(dbname: 'bookmark_manager')
     end
-    result = connection.exec("DELETE FROM bookmarks WHERE id='#{id}';")
+     connection.exec("DELETE FROM bookmarks WHERE id='#{id}';")
   end
 
 end
