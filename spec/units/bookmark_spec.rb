@@ -45,4 +45,5 @@ describe Bookmark do
         expect(bookmarks).to be_empty
       end
     end
+
   end
